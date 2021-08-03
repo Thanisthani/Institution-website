@@ -296,7 +296,7 @@ form.sign-up-form {
 
 .nav ul li{
   display: flex;
-  
+
 }
 .nav ul li a{
   font-family: 'Roboto Condensed', sans-serif;
@@ -307,6 +307,3 @@ form.sign-up-form {
   text-transform: uppercase;
   text-decoration: none;
 }
-
-
-
