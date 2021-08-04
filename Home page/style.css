@@ -1,10 +1,45 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap');
 
+body{
+	background-color: #d9d9d9;
+}
 *{
 	margin:0;
 	padding:0;
 	box-sizing: border-box;
 }
+/*Welcome*/
+#welcome{
+	margin:10px 0px;
+	background-color: #f2f2f2;
+	width: 100%;
+	padding: 40px 60px;
+}
+
+.quote_img{
+	width:100%;
+	height: 700px;
+}
+
+.welcome-para{
+	padding: 40px 60px;
+}
+.welcome-text{
+	font-family: STIX Two;
+	font-size: 30px;
+	color: #24478f;
+	text-align: center;
+	font-weight: bold;
+
+}
+.welcome-content{
+	font-size: 15px;
+	text-align: center;
+	color: #8c8c8c;
+}
+
+
+/*Footer*/
 .footer-container{
   margin:0;
   padding:0;
@@ -98,4 +133,7 @@ ul{
   .footer-col{
     width: 100%;
 }
+}
+.carousel-container{
+	height: 500px;
 }
