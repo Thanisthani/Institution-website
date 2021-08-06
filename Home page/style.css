@@ -22,9 +22,11 @@ body{
 }
 
 .welcome-para{
+
 	padding: 40px 60px;
 }
 .welcome-text{
+	line-height: 200px;
 	font-family: STIX Two;
 	font-size: 30px;
 	color: #24478f;
@@ -36,6 +38,39 @@ body{
 	font-size: 15px;
 	text-align: center;
 	color: #8c8c8c;
+}
+
+/*News*/
+#news{
+	background-image: url("img/news2.jpg");
+	width: 100%;
+	padding: 40px 60px;
+}
+
+.news-heading{
+	font-family: STIX Two;
+	font-size: 30px;
+	color: #ffffff;
+	text-align: center;
+	font-weight: bold;
+}
+
+.news-img{
+	height: 250px;
+	width:90%;
+}
+
+.news-text{
+	font-size: 15px;
+	text-align: left;
+	color: #ffffff;
+	padding: 10px 0px;
+}
+
+.news-update{
+	color: #b3b3b3;
+	font-size: 10px;
+	padding: 0px 0px;
 }
 
 
