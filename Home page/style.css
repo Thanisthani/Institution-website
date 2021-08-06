@@ -73,6 +73,29 @@ body{
 	padding: 0px 0px;
 }
 
+/*list*/
+
+#list{
+	background-color: #ffffff;
+	width: 100%;
+	padding: 40px 60px;
+
+}
+
+.list-count{
+	font-family: STIX Two;
+	font-size: 30px;
+	text-align: center;
+	font-weight: bold;
+}
+
+.list-title{
+	font-size: 15px;
+	text-align: center;
+	color:#b3b3b3;
+	padding: 0px 0px;
+
+}
 
 /*Footer*/
 .footer-container{
